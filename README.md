@@ -3,7 +3,7 @@
 Hello folks, I am Rong "Mantle" Bao, a Chinese CS student and amateur C/C# coder.
 
 
-- :telescope: I’m currently working on [Periotris.Net](https://github.com/CSharperMantle/Periotris.Net)
+- :telescope: I’m currently working on [Periotris.Net](https://github.com/CSharperMantle/Periotris.Net) and [Periotris.js](https://github.com/CSharperMantle/periotrisjs)
 - :seedling: I’m currently learning React
 - :left_speech_bubble: Ask me about anything [here](https://github.com/CSharperMantle/CSharperMantle/issues)
 - :school: Learn more about [my current school](https://www.nbxiaoshi.net/)
