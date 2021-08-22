@@ -3,8 +3,8 @@
 Hello folks, I am Rong "Mantle" Bao, a Chinese CS student and amateur C/C# coder.
 
 
-- :telescope: I’m currently working on [Periotris.Net](https://github.com/CSharperMantle/Periotris.Net) and [Periotris.js](https://github.com/CSharperMantle/periotrisjs)
-- :seedling: I’m currently learning React
+- :telescope: I’m currently working on [Periotris.js](https://github.com/CSharperMantle/periotrisjs) :joystick:
+- :seedling: I’m currently learning React :atom_symbol:
 - :left_speech_bubble: Ask me about anything [here](https://github.com/CSharperMantle/CSharperMantle/issues)
 - :school: Learn more about [my current school](https://www.nbxiaoshi.net/)
 - :boy: Pronoun: he, him, etc.
@@ -34,17 +34,3 @@ There are 2 ways to fund me:
 - By **Liberapay**: https://liberapay.com/CSharperMantle
 - By **Ai Fa Dian**: https://afdian.net/@CSharperMantle (strongly recommended for Chinese users as it is native to China and supports WeChat Pay and Alipay)
 
-<!--
-**CSharperMantle/CSharperMantle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
