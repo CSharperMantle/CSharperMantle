@@ -11,13 +11,6 @@ Hello folks, I am Rong "Mantle" Bao, a Chinese CS student and amateur C/C# coder
 
 [![Rong "Mantle" Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Languages:
-
-<code><img height="20" src="https://raw.fastgit.org/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.fastgit.org/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.fastgit.org/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.fastgit.org/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
-
 #### Projects:
 
 [![creq](https://github-readme-stats.vercel.app/api/pin/?username=CSharperMantle&repo=creq)](https://github.com/CSharperMantle/creq) [![Periotris.Net](https://github-readme-stats.vercel.app/api/pin/?username=CSharperMantle&repo=Periotris.Net)](https://github.com/CSharperMantle/Periotris.Net)
