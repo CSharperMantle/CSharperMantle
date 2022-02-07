@@ -9,7 +9,9 @@ Hello folks, I am Rong "Mantle" Bao, a Chinese CS student and amateur C/C# coder
 - :school: Learn more about [my current school](https://www.nbxiaoshi.net/)
 - :boy: Pronoun: he, him, etc.
 
-[![Rong "Mantle" Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![CSharperMantle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![CSharperMantle's GitHub trophies](https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Projects:
 
