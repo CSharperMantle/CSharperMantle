@@ -1,7 +1,8 @@
 ### Hi there, this is Mantle! :wave:
 
-Hello folks, I am Rong "Mantle" Bao, a Chinese CS student and amateur C/C# coder.
+I am Rong "Mantle" Bao, a Chinese CS student and amateur coder in various languages.
 
+Feel free to reach me in 中文/English!
 
 - :telescope: I’m currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer: and [Periotris.js](https://github.com/CSharperMantle/periotrisjs) :joystick:
 - :seedling: I’m currently learning Rust :gear:
@@ -12,10 +13,6 @@ Hello folks, I am Rong "Mantle" Bao, a Chinese CS student and amateur C/C# coder
 [![CSharperMantle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![CSharperMantle's GitHub trophies](https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-#### Projects:
-
-[![creq](https://github-readme-stats.vercel.app/api/pin/?username=CSharperMantle&repo=creq)](https://github.com/CSharperMantle/creq) [![Periotris.Net](https://github-readme-stats.vercel.app/api/pin/?username=CSharperMantle&repo=Periotris.Net)](https://github.com/CSharperMantle/Periotris.Net)
 
 #### Funding:
 
