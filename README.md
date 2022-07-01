@@ -5,7 +5,7 @@ I am Rong "Mantle" Bao, a Chinese CS student and amateur coder in various langua
 Feel free to reach me in 中文/English!
 
 - :telescope: I’m currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer: and [Periotris.js](https://github.com/CSharperMantle/periotrisjs) :joystick:
-- :seedling: I’m currently learning Rust :gear:
+- :seedling: I’m currently learning Rust :crab:
 - :left_speech_bubble: Ask me about anything [here](https://github.com/CSharperMantle/CSharperMantle/issues)
 - :school: Learn more about [my current school](https://www.nbxiaoshi.net/)
 - :boy: Pronoun: he, him, etc.
