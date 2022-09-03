@@ -1,12 +1,12 @@
-### Hi there, this is Mantle! :wave:
+## Hi there, this is Mantle! :wave:
 
 I am Rong "Mantle" Bao, a Chinese CS student and amateur coder in various languages.
 
-Feel free to reach me in 中文/English!
+Feel free to reach me in 中文/English.
 
+- :100: **Important:** I'm busy preparing for Gaokao, so I may be very slow to respond in 2023 (roughly from Sept. 2022 to Jul 2023). *I will be very delighted and grateful if you could leave some kind words to keep me going [here](https://github.com/CSharperMantle/CSharperMantle/issues).*
 - :telescope: I’m currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer: and [Periotris.js](https://github.com/CSharperMantle/periotrisjs) :joystick:
 - :seedling: I’m currently learning Rust :crab:
-- :left_speech_bubble: Ask me about anything [here](https://github.com/CSharperMantle/CSharperMantle/issues)
 - :school: Learn more about my current school, [Ningbo Xiaoshi High School](https://www.nbxiaoshi.net/)
 - :boy: Pronoun: he, him, etc.
 
@@ -14,15 +14,20 @@ Feel free to reach me in 中文/English!
 
 [![CSharperMantle's GitHub trophies](https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### Funding:
+### Funding
 
-Thanks for stopping by and considering support me!
+<details><summary>Details</summary>
+<p>
+
+Thanks for stopping by and considering supporting me!
 
 As you can probably tell, I write software mostly out of interest, and if any of my projects can be useful to you, entertain you or support your life in any way, I will be happy to hear that!
 
-Further more if it is possible for you to donate to my works, it will be easier for me to continue devoting to FOSS projects in my spare time.
+If it is possible for you to donate to my works, it will be easier for me to continue devoting to FOSS projects in my spare time.
 
 There are 2 ways to fund me:
 - By **Liberapay**: https://liberapay.com/CSharperMantle
 - By **Ai Fa Dian**: https://afdian.net/@CSharperMantle (strongly recommended for Chinese users as it is native to China and supports WeChat Pay and Alipay)
 
+</p>
+</details>
