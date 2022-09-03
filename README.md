@@ -10,9 +10,13 @@ Feel free to reach me in 中文/English.
 - :school: Learn more about my current school, [Ningbo Xiaoshi High School](https://www.nbxiaoshi.net/)
 - :boy: Pronoun: he, him, etc.
 
-[![CSharperMantle's GitHub stats](https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img alt="CSharperMantle's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true" />
+</p>
 
-[![CSharperMantle's GitHub trophies](https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img alt="CSharperMantle's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark" />
+</p>
 
 ### Funding
 
