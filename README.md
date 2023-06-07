@@ -4,7 +4,7 @@ I am Rong "Mantle" Bao, a Chinese CS student and amateur coder in various langua
 
 Feel free to reach me in 中文/English.
 
-- :100: **Important:** I'm busy preparing for Gaokao, so I may be very slow to respond in 2023 (roughly from Sept. 2022 to Jul 2023). *I will be very grateful if you could leave me some kind comments to cheer me up in this tough year [HERE](https://github.com/CSharperMantle/CSharperMantle/issues).*
+- :100: **Important:** I'm now taking Gaokao (Jun 6 to Jun 10). Will not respond until finished.
 - :telescope: I’m currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer: and [Periotris.js](https://github.com/CSharperMantle/periotrisjs) :joystick:
 - :seedling: I’m currently learning Rust :crab:
 - :school: Learn more about my current school, [Ningbo Xiaoshi High School](https://www.nbxiaoshi.net/)
