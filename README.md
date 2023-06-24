@@ -1,6 +1,6 @@
 ## Hi there, this is Mantle! :wave:
 
-I am Rong "Mantle" Bao, a Chinese CS student and amateur coder in various languages.
+I am Rong "Mantle" Bao, a Chinese student and amateur coder in various languages.
 
 Feel free to reach me in 中文/English.
 
