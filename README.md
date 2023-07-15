@@ -1,14 +1,12 @@
 ## Hi there, this is Mantle! :wave:
 
-I am Rong "Mantle" Bao, a Chinese student and amateur coder in various languages.
+I am Rong "Mantle" Bao, a Chinese student and amateur coder.
 
 Feel free to reach me in 中文/English.
 
-- :100: **Important:** I'm now taking Gaokao (Jun 6 to Jun 10). Will not respond until finished.
-- :telescope: I’m currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer: and [Periotris.js](https://github.com/CSharperMantle/periotrisjs) :joystick:
-- :seedling: I’m currently learning Rust :crab:
-- :school: Learn more about my current school, [Ningbo Xiaoshi High School](https://www.nbxiaoshi.net/)
-- :boy: Pronoun: he, him, etc.
+- :telescope: Currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer: and [Periotris.js](https://github.com/CSharperMantle/periotrisjs) :joystick:
+- :seedling: Learning analog circuits :electric_plug:
+- :boy: Pronoun: he/him
 
 <p align="center">
   <img alt="CSharperMantle's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true" />
