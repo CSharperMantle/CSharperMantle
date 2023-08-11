@@ -13,7 +13,7 @@ Feel free to reach me in 中文/English.
 </p>
 
 <p align="center">
-  <img alt="CSharperMantle's languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&show_icons=true&theme=dracula" />
+  <img alt="CSharperMantle's languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
