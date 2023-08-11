@@ -16,6 +16,9 @@ Feel free to reach me in 中文/English.
   <img alt="CSharperMantle's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark" />
 </p>
 
+<p align="center">
+  <img alt="CSharperMantle's languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&show_icons=true&count_private=true&layout=compact&theme=dracula" />
+</p>
 ### Funding
 
 <details><summary>Details</summary>
