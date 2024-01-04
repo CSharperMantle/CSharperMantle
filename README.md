@@ -4,8 +4,8 @@ I am Rong "Mantle" Bao, a Computer Science student from China.
 
 Feel free to reach me in 中文/English.
 
-- :telescope: Currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer: and [Periotris.js](https://github.com/CSharperMantle/periotrisjs) :joystick:
-- :seedling: Learning analog circuits :electric_plug:
+- :telescope: Currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer:
+- :seedling: Cramming for exams!
 - :boy: Pronoun: he/him
 
 <p align="center">
