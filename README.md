@@ -1,13 +1,13 @@
 ## Hi there, this is Mantle! :wave:
 
-I am Rong "Mantle" Bao, a Computer Science student from China.
+I am Rong "Mantle" Bao, a Computer Science student at Hangzhou Dianzi University.
 
 Feel free to reach me in 中文/English.
 
-- :telescope: Currently working on [MIXture](https://github.com/CSharperMantle/mixture) :desktop_computer:
+- :telescope: Current focus is [YSYX](https://ysyx.oscc.cc/) (lit. "each student gets a chip") :desktop_computer:
 - :seedling: Working on course reports
-- :fountain_pen: Cramming for exams!
-- :boy: Pronoun: he/him
+- :fountain_pen: Cramming for mid-term exams
+- :raising_hand_man: Pronoun: he/him
 
 <p align="center">
   <img alt="CSharperMantle's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true" />
