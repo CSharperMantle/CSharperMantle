@@ -30,11 +30,7 @@ Thanks for stopping by and considering supporting me!
 
 As you can probably tell, I write software mostly out of interest, and if any of my projects can be useful to you, entertain you or support your life in any way, I will be happy to hear that!
 
-If it is possible for you to donate to my works, it will be easier for me to continue devoting to FOSS projects in my spare time.
-
-There are 2 ways to fund me:
-- By **Liberapay**: https://liberapay.com/CSharperMantle
-- By **Ai Fa Dian**: https://afdian.net/@CSharperMantle (strongly recommended for Chinese users as it is native to China and supports WeChat Pay and Alipay)
+**Update**: Donations are not accepted at this time. Thanks!
 
 </p>
 </details>
