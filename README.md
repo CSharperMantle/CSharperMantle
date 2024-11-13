@@ -1,8 +1,6 @@
 ## Hi there, this is Mantle! :wave:
 
-I am Rong "Mantle" Bao, a Computer Science student at Hangzhou Dianzi University.
-
-Feel free to reach me in 中文/English.
+I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子科技大学/Hangzhou Dianzi University. Feel free to reach me in 中文/English!
 
 - :bookmark_tabs: Blog: <https://csmantle.top>
 - :telescope: Current focus is [YSYX](https://ysyx.oscc.cc/) (lit. "each student gets a chip") :desktop_computer:
