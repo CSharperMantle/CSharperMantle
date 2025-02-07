@@ -26,14 +26,14 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子�
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="CSharperMantle's languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true" />
+    <img alt="CSharperMantle's languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true&layout=compact" />
   </picture>
 </p>
 
