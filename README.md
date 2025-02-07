@@ -8,30 +8,34 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子�
 - :fountain_pen: Cramming for exams
 - :raising_hand_man: Pronoun: he/him
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=CSharperMantle&show_icons=true&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="CSharperMantle's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CSharperMantle&show_icons=true&count_private=true&include_all_commits=true" />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=CSharperMantle&show_icons=true&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="CSharperMantle's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CSharperMantle&show_icons=true&count_private=true&include_all_commits=true" />
+  </picture>
+</p>
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="CSharperMantle's languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true" />
-</picture>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="CSharperMantle's languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=CSharperMantle&size_weight=0.5&count_weight=0.5&show_icons=true" />
+  </picture>
+</p>
 
 <p align="center">
   <img alt="CSharperMantle's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark" />
