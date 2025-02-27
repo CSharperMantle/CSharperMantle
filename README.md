@@ -5,7 +5,7 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子�
 - :bookmark_tabs: <https://csmantle.top>
 - :telescope: Current focus is <abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr> (<https://ysyx.oscc.cc/>) and NSCSCC (<http://www.nscscc.com/>) :desktop_computer:
 - :speaking_head: 中文/English
-- :keyboard: Polyglot, specifically enjoy C/Rust/TypeScript.
+- :keyboard: Polyglot, mostly enjoy C/Rust/TypeScript
 - :fountain_pen: Cramming for exams
 - :raising_hand_man: **Pronoun:** he/him
 
