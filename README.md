@@ -2,11 +2,12 @@
 
 I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子科技大学/Hangzhou Dianzi University. Feel free to reach me in 中文/English!
 
-- :bookmark_tabs: Blog: <https://csmantle.top>
-- :telescope: Current focus is [YSYX](https://ysyx.oscc.cc/) (lit. "each student gets a chip") :desktop_computer:
-- :seedling: Working on course reports
+- :bookmark_tabs: <https://csmantle.top>
+- :telescope: Current focus is <abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr> (<https://ysyx.oscc.cc/>) and NSCSCC (<http://www.nscscc.com/>) :desktop_computer:
+- :speaking_head: 中文/English
+- :keyboard: Polyglot, specifically enjoy C/Rust/TypeScript.
 - :fountain_pen: Cramming for exams
-- :raising_hand_man: Pronoun: he/him
+- :raising_hand_man: **Pronoun:** he/him
 
 <p align="center">
   <picture>
@@ -40,17 +41,3 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子�
 <p align="center">
   <img alt="CSharperMantle's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark" />
 </p>
-
-### Funding
-
-<details><summary>Details</summary>
-<p>
-
-Thanks for stopping by and considering supporting me!
-
-As you can probably tell, I write software mostly out of interest, and if any of my projects can be useful to you, entertain you or support your life in any way, I will be happy to hear that!
-
-**Update**: Donations are not accepted at this time. Thanks!
-
-</p>
-</details>
