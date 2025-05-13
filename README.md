@@ -2,12 +2,18 @@
 
 I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子科技大学/Hangzhou Dianzi University. Feel free to reach me in 中文/English!
 
-- :bookmark_tabs: <https://csmantle.top>
-- :telescope: Current focus is <abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr> (<https://ysyx.oscc.cc/>) and NSCSCC (<http://www.nscscc.com/>) :desktop_computer:
-- :speaking_head: 中文/English
-- :keyboard: Polyglot, mostly enjoy C/Rust/TypeScript
-- :fountain_pen: Cramming for exams
 - :raising_hand_man: **Pronoun:** he/him
+- :bookmark_tabs: <https://csmantle.top>
+- :telescope: Current focus is <abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr> (<https://ysyx.oscc.cc/>) and NSCSCC (<http://www.nscscc.com/>)
+- :speaking_head: 中文/English
+- :fountain_pen: Cramming for exams
+
+Skills:
+
+- :globe_with_meridians: **Language:** Polyglot, mostly enjoy C/Rust/TypeScript
+- :closed_lock_with_key: **Infosec:** Reverse engineering, messing around with OS and ISA
+- :hammer_and_wrench: **Development:** Bare-metal, desktop native, web apps
+- :desktop_computer: **Architecture:** Experiences with x86-64 assembly, RISC-V/LoongArch ISAs and microarch implementations
 
 <p align="center">
   <picture>
