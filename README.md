@@ -53,7 +53,7 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子�
 </p>
 
 [1]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=c&sort=
-[2]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=c%20%20&sort=
+[2]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=c%2B%2B&sort=
 [3]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=c%23&sort=
 [4]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=rust&sort=
 [5]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=scala&sort=
