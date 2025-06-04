@@ -10,7 +10,7 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子�
 
 ### Skills
 
-- :globe_with_meridians: **Language:** Polyglot, mostly enjoy C/Rust/TypeScript
+- :globe_with_meridians: **Language:** Polyglot, most enjoy C/Rust/TypeScript
 - :closed_lock_with_key: **Infosec:** Reverse engineering, messing around with OS and ISA
 - :hammer_and_wrench: **Development:** Bare-metal, desktop native, web apps
 - :desktop_computer: **Architecture:** Experiences with x86-64 assembly, RISC-V/LoongArch ISAs and microarch implementations
