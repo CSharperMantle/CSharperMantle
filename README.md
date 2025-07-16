@@ -10,10 +10,10 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at 杭州电子�
 
 ### Skills
 
-- :globe_with_meridians: **Language:** Polyglot, most enjoy C/Rust/TypeScript
-- :closed_lock_with_key: **Infosec:** Reverse engineering, messing around with OS and ISA
-- :hammer_and_wrench: **Development:** Bare-metal, desktop native, web apps
-- :desktop_computer: **Architecture:** Experiences with x86-64 assembly, RISC-V/LoongArch ISAs and microarch implementations
+- **Computer language:** Polyglot, most enjoy C/Rust/TypeScript
+- **Infosec:** Reverse engineering, messing around with OS and ISA
+- **Development:** Bare-metal, desktop native, web apps
+- **Architecture:** Experiences with x86-64 assembly, RISC-V/LoongArch ISAs and microarch implementations
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)][1] [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)][2] [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)][3] [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)][4] [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)][5] [![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)][6] [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff)][7]
 
