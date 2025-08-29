@@ -11,7 +11,7 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianz
 - :raising_hand_man: **Pronoun:** he/him
 - :bookmark_tabs: <https://csmantle.top>
 - :telescope: Current project focus is [<abbr title="Open Source Promotion Plan">OSPP</abbr>](https://summer-ospp.ac.cn/) and [<abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr>](https://ysyx.oscc.cc/)
-- :speaking_head: 中文 (native), English (near native)
+- :speaking_head: 中文（母语）, English (near native)
 - :beach_umbrella: Enjoying summer vacation
 
 ### Skills
