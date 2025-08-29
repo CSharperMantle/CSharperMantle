@@ -4,7 +4,7 @@ Show-Markdown -Path CSharperMantle\README.md
 
 ## Rong "Mantle" Bao's awesome README
 
-我是鲍溶（别称/ID：Mantle），计算机科学与技术大二学生，就读于杭州电子科技大学。欢迎用中文和我联系！
+我是鲍溶（Mantle），计算机科学与技术大二学生，就读于杭州电子科技大学。欢迎用中文和我联系！
 
 I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in English!
 
@@ -13,6 +13,29 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianz
 - :telescope: Current project focus is [<abbr title="Open Source Promotion Plan">OSPP</abbr>](https://summer-ospp.ac.cn/) and [<abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr>](https://ysyx.oscc.cc/)
 - :speaking_head: 中文（母语）, English (near native)
 - :beach_umbrella: Enjoying summer vacation
+
+<details>
+  <summary><strong>My attitudes towards AI</strong></summary>
+
+* Machine learning problems are analytical and statistical problems.
+* Neural networks are good at discovering patterns not obvious to traditional approaches.
+* LLMs are probabilistic token predictors. They often intrinsically hallucinate.
+* Garbage in, garbage out. Observation in, imitation out.
+* I do use LLMs to brainstorm ideas.
+* I do use LLMs to perform repetitive clerical work and typographical proofreading.
+* I do chat with LLMs to have fun in my spare time.
+* I do use LLMs to craft images for imagined scenes for hobby use.
+* I do *not* use LLMs to write code for production use.
+* I do *not* use LLMs to write casual articles, like blogs.
+* I do *not* use LLMs to write academic articles or carry out research in place of myself.
+* I do *not* use LLMs as a search engine.
+* I do *not* trust LLMs as a sole source of information.
+* I do *not* accept responses from LLMs without verification.
+* I believe the loopholes and waivers in LLM hosting companies' EULA leave much personal information at risk.
+* I believe LLMs are energy hogs that should be used with conservation in mind.
+* I believe LLMs are going to become more performant as theories and technologies evolve.
+
+</details>
 
 ### Skills
 
@@ -57,26 +80,6 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianz
 <p align="center">
   <img alt="CSharperMantle's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark" />
 </p>
-
-### Attitude towards AI
-
-* Machine learning problems are analytical and statistical problems.
-* Neural networks are good at discovering patterns not obvious to traditional approaches.
-* LLMs are probabilistic token predictors. They often intrinsically hallucinate.
-* Garbage in, garbage out. Observation in, imitation out.
-* I do use LLMs to brainstorm ideas.
-* I do use LLMs to perform repetitive clerical work and typographical proofreading.
-* I do chat with LLMs to have fun in my spare time.
-* I do use LLMs to craft images for imagined scenes for hobby use.
-* I do *not* use LLMs to write code for production use.
-* I do *not* use LLMs to write casual articles, like blogs.
-* I do *not* use LLMs to write academic articles or carry out research in place of myself.
-* I do *not* use LLMs as a search engine.
-* I do *not* accept responses from LLMs without verification.
-* I do *not* trust LLMs as a sole source of information.
-* I believe the loopholes and waivers in LLM hosting companies' EULA leave much personal information at risk.
-* I believe LLMs are energy hogs that should be used with conservation in mind.
-* I believe LLMs are going to become more performant as theories and technologies evolve.
 
 [1]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=c&sort=
 [2]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=c%2B%2B&sort=
