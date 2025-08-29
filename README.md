@@ -4,9 +4,7 @@ Show-Markdown -Path CSharperMantle\README.md
 
 ## Rong "Mantle" Bao's awesome README
 
-我是鲍溶（Mantle），计算机科学与技术大二学生，就读于杭州电子科技大学。欢迎用中文和我联系！
-
-I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in English!
+I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
 
 - :raising_hand_man: **Pronoun:** he/him
 - :bookmark_tabs: <https://csmantle.top>
