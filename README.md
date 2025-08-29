@@ -33,7 +33,7 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianz
 * I do *not* accept responses from LLMs without verification.
 * I believe the loopholes and waivers in LLM hosting companies' EULA leave much personal information at risk.
 * I believe LLMs are energy hogs that should be used with conservation in mind.
-* I believe LLMs are going to become more performant as theories and technologies evolve.
+* I believe LLMs are becoming more performant as theories and technologies evolve.
 
 </details>
 
