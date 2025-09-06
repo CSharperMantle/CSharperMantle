@@ -2,7 +2,7 @@
 Show-Markdown -Path CSharperMantle\README.md
 ```
 
-## Rong "Mantle" Bao's awesome README
+## Profile
 
 I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
 
