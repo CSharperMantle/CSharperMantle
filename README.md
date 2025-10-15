@@ -6,11 +6,14 @@ Show-Markdown -Path CSharperMantle\README.md
 
 I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
 
-- :raising_hand_man: **Pronoun:** he/him
-- :bookmark_tabs: <https://csmantle.top>
-- :telescope: Current project focus is [<abbr title="Open Source Promotion Plan">OSPP</abbr>](https://summer-ospp.ac.cn/) and [<abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr>](https://ysyx.oscc.cc/)
-- :speaking_head: 中文（母语）, English (near native)
-- :beach_umbrella: Enjoying summer vacation
+- **Pronoun:** he/him
+- <https://csmantle.top>
+- Current project focus is [<abbr title="Open Source Promotion Plan">OSPP</abbr>](https://summer-ospp.ac.cn/) and [<abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr>](https://ysyx.oscc.cc/)
+- Natural languages:
+  - `zh-cmn-Hans-CN`: (native)
+  - `zh-wuu-Hans-CN`: (native)
+  - `en` (near native)
+- Developing personal projects
 
 <details>
   <summary><strong>My attitudes towards AI</strong></summary>
