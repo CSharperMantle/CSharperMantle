@@ -10,8 +10,8 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianz
 - <https://csmantle.top>
 - Current project focus is [<abbr title="Open Source Promotion Plan">OSPP</abbr>](https://summer-ospp.ac.cn/) and [<abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr>](https://ysyx.oscc.cc/)
 - Natural languages:
-  - `zh-cmn-Hans-CN`: (native)
-  - `zh-wuu-Hans-CN`: (native)
+  - `zh-cmn-Hans-CN` (native)
+  - `zh-wuu-Hans-CN` (native)
   - `en` (near native)
 - Developing personal projects
 
