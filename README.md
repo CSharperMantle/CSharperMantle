@@ -4,11 +4,11 @@ Show-Markdown -Path CSharperMantle\README.md
 
 ## Profile
 
-I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
+I am Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
 
-- **Pronoun:** he/him
-- <https://csmantle.top>
-- Current project focus is [<abbr title="Open Source Promotion Plan">OSPP</abbr>](https://summer-ospp.ac.cn/) and [<abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr>](https://ysyx.oscc.cc/)
+- He/him
+- Blog at <https://csmantle.top>
+- Current focus is [<abbr title="Open Source Promotion Plan">OSPP</abbr>](https://summer-ospp.ac.cn/) and [<abbr title="Yi Sheng Yi Xin, lit. &quot;each student gets a chip&quot;">YSYX</abbr>](https://ysyx.oscc.cc/)
 - Natural languages:
   - `zh-cmn-Hans-CN` (native)
   - `zh-wuu-Hans-CN` (native)
@@ -40,10 +40,11 @@ I am Rong "Mantle" Bao, a second-year Computer Science student at Hangzhou Dianz
 
 ### Skills
 
-- **Programming language:** Polyglot, most enjoy C/Rust/TypeScript
-- **Infosec:** Reverse engineering, messing around with OS and ISA
-- **Development:** Bare-metal, desktop native, web apps
-- **Architecture:** Experiences with x86-64 assembly, RISC-V/LoongArch ISAs and microarch implementation
+- Polyglot, most enjoy C/Rust/TypeScript
+- Reverse engineering, messing around with OS and ISA
+- Bare-metal, desktop native, single-page WebApps development
+- Experiences with x86-64 assembly, RISC-V/LoongArch ISAs and microarch implementation
+- [Mozilla Level 1 Commit Access](https://bugzilla.mozilla.org/user_profile?user_id=774743)
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)][1] [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)][2] [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)][3] [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)][4] [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)][5] [![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)][6] [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff)][7]
 
