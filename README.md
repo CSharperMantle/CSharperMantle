@@ -78,7 +78,7 @@ I am Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi
 </p>
 
 <p align="center">
-  <img alt="CSharperMantle's GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=CSharperMantle&theme=onedark" />
+  <img alt="CSharperMantle's GitHub trophies" src="https://github-profile-trophy-csmantle.vercel.app/?username=CSharperMantle&theme=onedark" />
 </p>
 
 [1]: https://github.com/CSharperMantle?tab=repositories&q=&type=&language=c&sort=
