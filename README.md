@@ -51,15 +51,9 @@ I am Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi
 
 <p align="center">
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=CSharperMantle&theme=dracula&show_icons=true&count_private=true&include_all_commits=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=CSharperMantle&show_icons=true&count_private=true&include_all_commits=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img alt="CSharperMantle's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CSharperMantle&show_icons=true&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CSharperMantle/CSharperMantle/generated/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CSharperMantle/CSharperMantle/generated/github-contribution-grid-snake-default.svg">
+    <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/CSharperMantle/CSharperMantle/generated/github-contribution-grid-snake-default.svg">
   </picture>
 </p>
 
