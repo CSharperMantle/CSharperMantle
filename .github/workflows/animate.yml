@@ -1,0 +1,44 @@
+name: Animate
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: 0 */6 * * * 
+  push:
+    branches: 
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Import GPG key
+        uses: crazy-max/ghaction-import-gpg@v6
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake-default.svg?palette=github
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push Snake output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          verbose: true
+          target_branch: generated
+          build_dir: output
+          jekyll: false
+          committer: Automation <automation@csmantle.top>
+          commit_message: |
+            Upload generated artifacts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
