@@ -55,7 +55,7 @@ I am Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi
 * I do use LLMs to perform repetitive clerical work and typographical proofreading.
 * I do chat with LLMs to have fun in my spare time.
 * I do use generative models to craft images for hobby use.
-* I do *not* use LLMs to write code to write code without having the full capability to complete the task myself or without careful scrutiny.
+* I do *not* use LLMs to write code to write code beyond my own capability or without careful scrutiny.
 * I do *not* use LLMs to write casual articles, like blogs.
 * I do *not* use LLMs to write academic articles or carry out research in place of myself.
 * I do *not* use LLMs as a search engine.
