@@ -4,7 +4,7 @@ Show-Markdown -Path CSharperMantle\README.md
 
 ## Profile
 
-I am Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
+I'm Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
 
 - He/him
 - Blog: <https://csmantle.top>
