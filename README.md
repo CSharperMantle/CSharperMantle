@@ -11,7 +11,7 @@ I'm Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi 
 - Natural (spoken) languages:
   - `zh-{cmn,wuu}-Hans-CN` (native)
   - `en` (TOEFL iBT 117 = CEFR C2)
-- [Porting Gecko Profiler to RV64 and LA64](https://bugzil.la/2023167); Working on personal projects
+- Working on [porting Gecko Profiler to RV64 and LA64](https://bugzil.la/2023167) and personal projects
 
 <details>
   <summary><strong>My GPG keys</strong></summary>
