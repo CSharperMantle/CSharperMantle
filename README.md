@@ -10,7 +10,7 @@ I'm Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi 
 - Blog: <https://csmantle.top>
 - Natural (spoken) languages:
   - `zh-{cmn,wuu}-Hans-CN` (native)
-  - `en` (TOEFL iBT 117 = CEFR C2)
+  - `en` (TOEFL iBT 117; CEFR C2)
 - Working on [porting Gecko Profiler to RV64 and LA64](https://bugzil.la/2023167) and personal projects
 
 <details>
