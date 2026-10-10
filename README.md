@@ -4,14 +4,14 @@ Show-Markdown -Path CSharperMantle\README.md
 
 ## Profile
 
-I'm Rong "Mantle" Bao, a third-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
+I'm Rong "Mantle" Bao, a senior-year Computer Science student at Hangzhou Dianzi University. Feel free to reach me in 中文/English.
 
 - He/him
 - Blog: <https://csmantle.top>
 - Natural (spoken) languages:
   - `zh-{cmn,wuu}-Hans-CN` (native)
   - `en` (TOEFL iBT 117; CEFR C2)
-- Working on [porting Gecko Profiler to RV64 and LA64](https://bugzil.la/2023167) and personal projects
+- Working on my B. Eng. thesis
 
 <details>
   <summary><strong>My GPG keys</strong></summary>
