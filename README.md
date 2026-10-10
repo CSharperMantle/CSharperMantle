@@ -11,7 +11,7 @@ I'm Rong "Mantle" Bao, a senior-year Computer Science student at Hangzhou Dianzi
 - Natural (spoken) languages:
   - `zh-{cmn,wuu}-Hans-CN` (native)
   - `en` (TOEFL iBT 117; CEFR C2)
-- Working on my B. Eng. thesis
+- Working on my BEng thesis and personal projects
 
 <details>
   <summary><strong>My GPG keys</strong></summary>
