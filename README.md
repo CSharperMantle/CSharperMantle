@@ -33,8 +33,6 @@ I'm Rong "Mantle" Bao, a senior-year Computer Science student at Hangzhou Dianzi
 - Low-level work. Interested in x86-64 assembly, RISC-V/LoongArch ISAs, and microarch implementation
 - Compilers and toolchains. [Mozilla Level 3 Commit Access](https://bugzilla.mozilla.org/user_profile?user_id=774743), active maintainer of SpiderMonkey's RV64 and LA64 JIT backends
 
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)][1] [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)][2] [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)][3] [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)][4] [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)][5] [![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)][6] [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=fff)][7]
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CSharperMantle/CSharperMantle/generated/github-contribution-grid-snake-dark.svg">
