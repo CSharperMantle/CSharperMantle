@@ -46,20 +46,20 @@ I'm Rong "Mantle" Bao, a senior-year Computer Science student at Hangzhou Dianzi
 
 * Machine learning problems are analytical and statistical problems.
 * Neural networks are good at discovering patterns not obvious to traditional approaches.
-* LLMs are probabilistic token predictors. They often intrinsically hallucinate.
+* LLMs are probabilistic token predictors. They generate plausible-looking output, and often intrinsically hallucinate.
 * Garbage in, garbage out. Observation in, imitation out.
 * I do use LLMs to brainstorm ideas.
-* I do use LLMs to perform repetitive clerical work and typographical proofreading.
+* I do use LLMs to perform repetitive work, like typographical proofreading and babysitting pre-written scripts.
 * I do chat with LLMs to have fun in my spare time.
-* I do use generative models to craft images for hobby use.
-* I do *not* use LLMs to write code to write code beyond my own capability or without careful scrutiny.
+* I do use generative models to craft multimedia content for personal, hobby use.
+* I do *not* use LLMs to write code beyond my own capabilities, or without careful scrutiny.
 * I do *not* use LLMs to write casual articles, like blogs.
-* I do *not* use LLMs to write academic articles or carry out research in place of myself.
+* I do *not* use LLMs to write academic articles, or carry out research in place of myself.
 * I do *not* use LLMs as a search engine.
 * I do *not* trust LLMs as a sole source of information.
 * I do *not* accept responses from LLMs without verification.
-* I believe the loopholes and waivers in LLM hosting companies' EULA put much personal information at risk.
-* I believe LLMs are energy hogs that should be used with conservation in mind.
+* Loopholes and waivers in LLM hosting companies' EULA put much data at risk.
+* LLMs are energy hogs that should be used with conservation in mind.
 * I believe LLMs are becoming more performant as theories and technologies evolve.
 
 </details>
