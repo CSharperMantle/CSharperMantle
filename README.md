@@ -58,6 +58,7 @@ I'm Rong "Mantle" Bao, a senior-year Computer Science student at Hangzhou Dianzi
 * I do *not* use LLMs as a search engine.
 * I do *not* trust LLMs as a sole source of information.
 * I do *not* accept responses from LLMs without verification.
+* LLMs are trained on humanity's collective knowledge. Human labor and intellectual rights must be honored and respected.
 * Loopholes and waivers in LLM hosting companies' EULA put much data at risk.
 * LLMs are energy hogs that should be used with conservation in mind.
 * I believe LLMs are becoming more performant as theories and technologies evolve.
