@@ -31,7 +31,7 @@ I'm Rong "Mantle" Bao, a senior-year Computer Science student at Hangzhou Dianzi
 - **Coding.** Polyglot, enjoy C/Rust/TypeScript most
 - **Coding in reverse.** Reverse engineering, messing around with edge cases of the ISA and the OS. Member of [Vidar-Team](https://vidar.club/). FLARE-On 11 [Finisher #168](https://flare-on.com/2024.html#:~:text=Rong%20Bao)
 - **Low-level work.** Interested in x86-64 assembly, RISC-V/LoongArch ISAs, and microarch implementation
-- **Compilers and toolchains.** [Mozilla Level 3 Commit Access](https://bugzilla.mozilla.org/user_profile?user_id=774743), active maintainer of SpiderMonkey's RISC-V and LoongArch JIT backends
+- **Compilers and toolchains.** [Mozilla Level 3 Commit Access](https://bugzilla.mozilla.org/user_profile?user_id=774743), [LLVM Committer](https://github.com/llvm/llvm-project/pulls?q=author%3ACSharperMantle+sort%3Aupdated-desc+is%3Apr). Active maintainer of SpiderMonkey's RISC-V and LoongArch JIT backends
 
 <p align="center">
   <picture>
